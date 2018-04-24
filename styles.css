@@ -1,0 +1,14 @@
+.square {
+    height: 200px;
+    width: 200px;
+    margin: 1em;
+    background-color: black;
+    display: inline-block;
+}
+
+.squareText {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 16px;
+}
